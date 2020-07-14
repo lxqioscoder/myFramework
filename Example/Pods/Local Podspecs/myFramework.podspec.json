@@ -1,0 +1,22 @@
+{
+  "name": "myFramework",
+  "version": "0.1.0",
+  "summary": "A short description of myFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lixiaoqiang/myFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lixiaoqiang": "lxq268850@alibaba-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/lixiaoqiang/myFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myFramework/Classes/**/*"
+}
