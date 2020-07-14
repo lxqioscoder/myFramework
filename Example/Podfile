@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'myFramework_Example' do
+  pod 'myFramework', :path => '../'
+
+  target 'myFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
